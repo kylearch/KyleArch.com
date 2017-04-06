@@ -9,7 +9,7 @@
 <section id="bio">
   <h3>whoami</h3>
   <p>
-    I'm a 28 year old developer living with my wife and daughter in Round Rock, Texas. I've been working on computers since I could use a keyboard and mouse, and picked up web development in middle school. For some reason, I went to school for Business Administration at Cal Poly San Luis Obispo and received my bachelor's degree in December of 2011. I gained all of my development knowledge and experience through copious amounts of reading, tutorials, and pet projects until I was hired for my first professional programming job 3 months into 2012. I've worked hard and made career moves when work became stagnant and unchallenging. 
+    I'm a 29 year old developer living with my wife and daughter in Round Rock, Texas. I've been working on computers since I could use a keyboard and mouse, and picked up web development in middle school. For some reason, I went to school for Business Administration at Cal Poly San Luis Obispo and received my bachelor's degree in December of 2011. I gained all of my development knowledge and experience through copious amounts of reading, tutorials, and pet projects until I was hired for my first professional programming job 3 months into 2012. I've worked hard and made career moves when work became stagnant and unchallenging. 
   </p>
   <p>
     While work drives me and keeps my mind eager and agile, my family is why I work as hard as I do. I met my wife in San Luis Obispo as a freshman, and 6 years later propsed in Redondo Beach, CA. We were married a year later, where she followed me to Texas when work pulled us from California. Half a year later she told me she was pregnant and in April of 2016 our daughter was born.
@@ -20,7 +20,10 @@
   <h3>Work History</h3>
   <dl>
 
-    <dt>2015 &ndash; <em>current</em>:</dt>
+  <dt>2017 &ndash; <em>current</em>:</dt>
+    <dd>Backend Developer @ <a href="http://creativemarket.com" title="CreativeMarket.com" target="_outlink">CreativeMarket.com</a>. Focusing more on backend PHP for a large scale digital goods marketplace. Emphasis on scalability and performance.</dd>
+
+    <dt>2015 &ndash; 2017:</dt>
     <dd>Senior Developer @ <a href="http://go83bar.com" title="83bar, LLC" target="_outlink">83bar, LLC</a>. Building and managing a web platform to help bring potential patients to practices. Areas of technology include PHP (Laravel 5.1) backend/admin dashboard and a Backbone.js internal application leveraging Twilio to handle customer interactions.</dd>
 
     <dt>2013 &ndash; 2015:</dt>
